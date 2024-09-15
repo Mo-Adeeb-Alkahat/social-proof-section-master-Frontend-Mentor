@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/AdeebAlk/social-proof-section-master-Frontend-Mentor.git)
-- Live Site URL: [live site URL](https://adeebalk.github.io/social-proof-section-master-Frontend-Mentor/)
+- Live Site URL: [live site URL](https://Mo-Adeeb-Alkahat.github.io/social-proof-section-master-Frontend-Mentor/)
 
 ## My process
 
